@@ -1,5 +1,10 @@
 # ui_day5
 
+Screenshot
+
+![Ecomm](https://github.com/aamirali65/Inventory-UI-Flutter/assets/103622237/e5aee37a-ab94-4fe5-b8ce-61787342916b)
+
+
 A new Flutter project.
 
 ## Getting Started
